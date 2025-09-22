@@ -2,7 +2,7 @@
 
 An interactive web application to discover and plan new hobbies tailored to my lifestyle, energy levels, and interests. Perfect for my busy schedule to help me develop new skills, host memorable events, bond with friends, and embark on adventures.
 
-![Hobby Explorer Preview](https://hobby-suggestions.vercel.app/)
+<img width="1464" height="826" alt="Image" src="https://github.com/user-attachments/assets/06321894-9092-49d6-bf88-a0aabd371172" />
 
 ## ✨ Features
 
@@ -192,4 +192,4 @@ MIT License - Feel free to use this project for personal or commercial purposes.
 
 **Made with ❤️ for busy professionals who want to live more interesting lives**
 
-*Start exploring your next hobby today!* 🚀
+*Come explore your next hobby with me!* 🚀
